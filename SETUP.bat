@@ -1,6 +1,6 @@
 @echo off
 title CampusGPT - Setup
-color 0B 
+color 0B
 
 echo.
 echo  ================================================
